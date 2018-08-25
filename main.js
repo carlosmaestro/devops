@@ -78,8 +78,8 @@ var AppComponent = /** @class */ (function () {
         this.hide_presentation = false;
         this.title = 'Malha Hídrica Inteligente';
         // dados de inicialização da malha
-        this.mesh_rows = 10;
-        this.mesh_cols = 10;
+        this.mesh_rows = 8;
+        this.mesh_cols = 8;
         // loading state
         this.loading = {
             show: false,
